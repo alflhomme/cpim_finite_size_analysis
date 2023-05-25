@@ -2,7 +2,6 @@
 #SBATCH -J CPIM
 #SBATCH -p slims
 #SBATCH -n 1
-#SBATCH -c 88
 #SBATCH --output=output_%j.out
 #SBATCH --error=errors_%j.err
 #SBATCH --mail-user=ajlhomme@uc.cl
