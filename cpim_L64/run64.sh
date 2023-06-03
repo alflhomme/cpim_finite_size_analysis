@@ -8,4 +8,4 @@
 #SBATCH --mail-type=ALL
 
 make
-./CPIM "CPIM_L=64_2.txt"
+./CPIM "CPIM_L=64.txt"
