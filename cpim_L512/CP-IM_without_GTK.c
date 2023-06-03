@@ -7,7 +7,7 @@
 
 #define X_SIZE 512
 #define Y_SIZE 512
-#define REPLICAS 10
+#define REPLICAS 1
 
 // STRUCTURE with the simulation DATA
 struct simulation // Permite combinar datos de diferente tipo
